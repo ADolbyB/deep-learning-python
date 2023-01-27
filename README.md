@@ -1,2 +1,3 @@
-# deep-learning-python
-A collection of code for CAP 4613: Intro to Deep Learning
+# Deep Learning with Python:
+
+This is a collection of code I wrote for CAP 4613: Intro to Deep Learning.
