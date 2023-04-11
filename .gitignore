@@ -1,2 +1,3 @@
 .vscode/
-/assets/Lecture7/*.h5
+/assets/*/*.h5
+/assets/*.h5
